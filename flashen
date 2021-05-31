@@ -1,0 +1,7 @@
+cd /mnt/c/users/ribi/Desktop/helios_final/
+chmod 777 *
+//./avrflash 192.168.178.126 heliosend.hex
+./avrflash 192.168.178.126 helios_final.ino.standard.hex
+//./avrflash 192.168.178.126 heliosend.hex
+//dir
+
